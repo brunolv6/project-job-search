@@ -16,11 +16,21 @@
         font-size: 14px;
         width: 100px;
         height: 40px;
-        color: white;
+        color: red;
         background-color: black;
         outline: none;
         border-radius: 0px 10px 10px 0px;   
         border: 1px solid black;
         cursor: pointer;
+    }
+
+    @media screen and (max-width: 500px) {
+        .search-input{
+            width: 200px;
+        }
+
+        .search-button{
+            width: 66px;
+        }
     }
 }
