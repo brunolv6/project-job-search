@@ -1,0 +1,24 @@
+.App {
+  text-align: center; 
+
+  .job-container{
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .visto{
+        margin: 10px;
+        display: flex;
+        flex-direction: row;
+
+        .green-box{
+            margin: 0px 10px 0px 0px;
+            width: 20px;
+            height: 20px;
+            background-color: rgba(0, 128, 0, 0.507);
+        }
+    }
+  }
+}
+
