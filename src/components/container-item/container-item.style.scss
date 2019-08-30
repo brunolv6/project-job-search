@@ -42,4 +42,19 @@
                 background-color: rgba(255, 255, 255, 0.89);
             }
         }
+}
+
+@media screen and (max-width: 700px) {
+    .container{
+        margin: 7px;
+        border: 1.5px black solid;
+        width: 200px;
+        height: 120px;
+
+        .caixa-interna{
+            width: 150px;
+            height: 60px;
+            font-size: 12px;
+        }
     }
+}
