@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-job-search/static/css/main.a7d3e038.chunk.css",
+    "main.css": "/project-job-search/static/css/main.f424b61b.chunk.css",
     "main.js": "/project-job-search/static/js/main.0ef1d866.chunk.js",
     "main.js.map": "/project-job-search/static/js/main.0ef1d866.chunk.js.map",
     "runtime~main.js": "/project-job-search/static/js/runtime~main.50f0c97f.js",
@@ -8,8 +8,8 @@
     "static/js/2.5cf87176.chunk.js": "/project-job-search/static/js/2.5cf87176.chunk.js",
     "static/js/2.5cf87176.chunk.js.map": "/project-job-search/static/js/2.5cf87176.chunk.js.map",
     "index.html": "/project-job-search/index.html",
-    "precache-manifest.2ff80957c6d12eafde8c00235ac0f208.js": "/project-job-search/precache-manifest.2ff80957c6d12eafde8c00235ac0f208.js",
+    "precache-manifest.d48d91bb4132f26e1bd6f299d4ac3b41.js": "/project-job-search/precache-manifest.d48d91bb4132f26e1bd6f299d4ac3b41.js",
     "service-worker.js": "/project-job-search/service-worker.js",
-    "static/css/main.a7d3e038.chunk.css.map": "/project-job-search/static/css/main.a7d3e038.chunk.css.map"
+    "static/css/main.f424b61b.chunk.css.map": "/project-job-search/static/css/main.f424b61b.chunk.css.map"
   }
 }
